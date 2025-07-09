@@ -4,7 +4,7 @@ import { useTranslations } from "next-intl"
 import { Link } from "@/i18n/routing"
 
 export default function HomePage() {
-  const t = useTranslations("HomePage")
+  const t = useTranslations("messages.HomePage")
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
