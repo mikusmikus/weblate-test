@@ -1,0 +1,8 @@
+{
+  "HomePage": {
+    "title": "Laipni lūdzam Next.js ar internacionalizāciju",
+    "description": "Šī ir vienkārša testa lapa, kas demonstrē next-intl ar angļu un latviešu valodu lokalizāciju.",
+    "currentLocale": "Pašreizējā valoda",
+    "locale": "Latviešu"
+  }
+}
