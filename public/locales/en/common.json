@@ -1,8 +1,11 @@
 {
-  "HomePage": {
-    "title": "Welcome to Next.js with Internationalization",
-    "description": "This is a simple test page demonstrating next-intl with English and Latvian locales.",
-    "currentLocale": "Current language",
-    "locale": "English"
-  }
+    "HomePage": {
+        "title": "Welcome to Next.js with Internationalization(test test test)",
+        "description": "This is a simple test page demonstrating next-intl with English and Latvian locales.",
+        "currentLocale": "Current language",
+        "locale": "English"
+    },
+    "test": {
+        "hello-world": "Hello world!!!!"
+    }
 }
