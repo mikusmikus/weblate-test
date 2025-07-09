@@ -6,7 +6,7 @@
         "locale": "Latviešu"
     },
     "test": {
-        "hello-world": "sveik pasaul!!!",
-        "one-more-test": "Vēl viens test1111222"
+        "hello-world": "sveik pasaul!!!222",
+        "one-more-test": "Vēl viens test1111"
     }
 }
