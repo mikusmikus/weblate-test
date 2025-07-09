@@ -6,6 +6,7 @@
         "locale": "English"
     },
     "test": {
-        "hello-world": "Hello world!!!!"
+        "hello-world": "Hello world!!!!",
+        "one-more-test": "One more test"
     }
 }
